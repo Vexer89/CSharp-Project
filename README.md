@@ -2,20 +2,14 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Requirements](#requirements)
-- [License](#license)
+1. [Introduction](#introduction)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Requirements](#requirements)
 
 ## Introduction
 
 A brief description of the project.
-
-## Installation
-
-Instructions on how to install the project.
 
 ## Usage
 
@@ -28,12 +22,4 @@ Description of the project features.
 ## Requirements
 
 List of requirements.
-
-## License
-
-Information about the license.
-
-
-
-
 
