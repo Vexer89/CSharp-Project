@@ -8,8 +8,10 @@
 4. [Requirements](#requirements)
 
 ## Introduction
-
-A brief description of the project.
+### Project Topic Selection and Domain Analysis:
+- Domain: Entertainment
+- Topic: Movie Review Application
+- User Needs Analysis: The application should allow users to add movie reviews, browse reviews from other users, and rate movies.
 
 ## Usage
 
