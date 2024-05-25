@@ -6,7 +6,7 @@
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Requirements](#requirements)
-5. [Application view](#Applicationview)
+5. [Application view](#Application)
 
 ## Introduction
 ### Project Topic Selection and Domain Analysis:
