@@ -1,4 +1,4 @@
-# Project Title - Movie Review Application?
+# Movie Review Application
 
 ## Table of Contents
 
