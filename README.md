@@ -1,4 +1,4 @@
-# Movie Review Application
+# Movie Review Application 🎬
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 4. [Requirements](#requirements)
 5. [Interface](#Interface)
 
-## Introduction
+## Introduction 📽️
 ### Project Topic Selection and Domain Analysis:
 - Domain: Entertainment
 - Topic: Movie Review Application
@@ -26,5 +26,5 @@ Description of the project features.
 
 List of requirements.
 
-## Interface
+## Interface 💻
 
