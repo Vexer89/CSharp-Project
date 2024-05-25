@@ -2,13 +2,15 @@
 ### Programowanie zaawansowane 2
 
 Maksymalna liczba punktów: 10
+
 Skala ocen za punkty:
-9-10 ~ bardzo dobry (5.0)
-8 ~ plus dobry (4.5)
-7 ~ dobry (4.0)
-6 ~ plus dostateczny (3.5)
-5 ~ dostateczny (3.0)
-0-4 ~ niedostateczny (2.0)
+- 9-10 ~ bardzo dobry (5.0)
+- 8 ~ plus dobry (4.5)
+- 7 ~ dobry (4.0)
+- 6 ~ plus dostateczny (3.5)
+- 5 ~ dostateczny (3.0)
+- 0-4 ~ niedostateczny (2.0)
+
 Celem laboratorium jest wykonanie projektu aplikacji internetowej napisanej w technologii ASP.NET core MVC oraz REST API. Aplikacja będzie wykorzystywała mechanizm sesji do zapamiętania faktu zalogowania przez użytkownika. Dane wprowadzane do aplikacji będą zapamiętywane w bazie danych SQLite. Hasło w bazie będzie przechowywane w postaci skrótu (hash-u). Dostęp do bazy powinien odbywać się przy pomocy modelu danych w ramach MVC (nie poprzez natywne kwerendy do bazy).
 
 * Projekt należy wykonać w grupach co najwyżej dwuosobowych.
