@@ -25,3 +25,5 @@ Description of the project features.
 
 List of requirements.
 
+## Application view
+
