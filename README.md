@@ -6,7 +6,7 @@
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Requirements](#requirements)
-5. [Application view](#Application)
+5. [Interface](#Interface)
 
 ## Introduction
 ### Project Topic Selection and Domain Analysis:
@@ -26,5 +26,5 @@ Description of the project features.
 
 List of requirements.
 
-## Application view
+## Interface
 
