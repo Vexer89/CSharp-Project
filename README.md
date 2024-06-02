@@ -34,4 +34,7 @@ Description of the project features.
 List of requirements.
 
 ## Interface 💻
+![interface1](https://github.com/MichalBurda4/CSharp-Project/assets/163707785/fb34fdba-f80b-4c4c-8cdc-92b60a3b6910)
+![interface2](https://github.com/MichalBurda4/CSharp-Project/assets/163707785/da6cb3ed-25f4-46df-ad5f-60b01ee94b10)
+![interface3](https://github.com/MichalBurda4/CSharp-Project/assets/163707785/d1a4086d-ab2a-4ca1-baaa-836759d45689)
 
