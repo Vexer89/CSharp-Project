@@ -16,7 +16,14 @@
 
 ## Usage
 
-How to use the project.
+To use this project, you have two options:
+
+1. Command Line: Open your terminal and navigate to the project directory. Then, enter the following command:
+```
+   dotnet run
+```
+2. IDE: Open the project in your preferred Integrated Development Environment (IDE) such as Visual Studio. Simply press the build or run button to compile and execute the project.
+     
 
 ## Features
 
